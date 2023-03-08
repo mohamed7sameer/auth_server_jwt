@@ -1,0 +1,5 @@
+{
+  "users": [
+    { "id": 2, "name":"mohamed samir","email": "test@gmail.com", "password": "123456", "image_url":"http://127.0.0.1:3000/test/images/1.png", "point": 150  }
+  ]
+}
